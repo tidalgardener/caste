@@ -1,7 +1,7 @@
 # Kit: Firearms & Archery – Northern Ontario
 
 - **Category:** Physical kit → Outdoors & hunting → Firearms & archery  
-- **Owners:** Babak & wife  
+- **Owners:** Babak & Anna  
 - **Region:** Northern Ontario  
 - **Status:** Fine‑tuned to your current preferences and terrain  
 - **Privacy:** Private; not for public profiles or publishing
@@ -334,4 +334,3 @@ Main crossbow for whitetail deer and black bear.
 - **Micro 315:** tight‑cover deer crossbow.  
 - **RevX (BEAST):** main deer & bear crossbow.  
 - **Grizzly recurve:** close‑range trad deer + 3D.
-

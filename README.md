@@ -24,7 +24,7 @@ For a narrative “start here” guide, see `START-HERE.md`.
 
 - **Kits**
   - `kits/` – practical “kits” that bundle tools, checklists, and mental models.
-    - `kits/physical-outdoors-hunting-firearms-archery.md` – firearms & archery manifest for northern Ontario (you and your wife’s hunting setup).
+    - `kits/physical-outdoors-hunting-firearms-archery.md` – firearms & archery manifest for northern Ontario (you and Anna’s hunting setup).
 
 - **Playbooks**
   - `playbooks/` – step‑by‑step guides for recurring situations (e.g., bad focus days, pre‑hunt routines, safety and recovery plans).  
@@ -37,4 +37,3 @@ For a narrative “start here” guide, see `START-HERE.md`.
 - When we create **new core docs** (kits, playbooks, rules, major reference files), we’ll add them here.
 - We won’t list every journal entry individually, but we’ll keep categories and key “anchor” docs easy to find.
 - If this structure ever feels off, we can reorganize and simplify; this README is meant to stay in sync with how you actually use the castle.
-

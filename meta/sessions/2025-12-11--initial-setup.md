@@ -13,7 +13,7 @@
   - `playbooks/`
 - Captured key context about you:
   - 56‑year‑old male software developer (40+ years experience).
-  - Lives in North Bay, Ontario with a very supportive wife of 12+ years.
+  - Lives in North Bay, Ontario with Anna, your very supportive partner of 12+ years.
   - Outdoors‑oriented lifestyle and strong home/sex life.
   - Self‑reported OCD/ADHD traits (not necessarily formally diagnosed).
 - Established that:
@@ -29,4 +29,3 @@
 Next time we work together, we can either:
 - Start a new session note in `meta/sessions/`, or
 - Continue from these open threads and turn them into concrete kits and playbooks.
-
