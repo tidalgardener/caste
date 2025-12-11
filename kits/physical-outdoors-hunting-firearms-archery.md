@@ -21,30 +21,22 @@ It is meant to:
 **Purpose**  
 Grouse, hare, and other small game in the bush; the occasional dove and woodcock; sometimes shooting Five Stand.
 
-**Typical ranges**  
-10–35 yd
+**Effective ranges**  
+- General use: 10–35 yd
 
-**Platform**
+**Platform (shotgun)**
 
 - Canuck Over/Under, 28 ga, 28" barrel, 2¾" chamber  
-- Chokes: IC (bottom) / Modified (top)  
-- Break action, extractors
+- Action: break‑action with extractors  
+- Chokes: IC (bottom) / Modified (top)
 
-**Ammo – upland small game**
+**Ammo & use**
 
-- #7 / #7½ / #8 shot – close‑cover birds (≈10–25 yd)  
-- #6 shot – general upland & hare (≈20–35 yd)  
-- #4 / #5 shot – optional heavier upland loads
+- **Upland small game (grouse, hare, etc.):** #7 / #7½ / #8 shot for close‑cover birds (≈10–25 yd); #6 shot for general upland & hare (≈20–35 yd); optional #4 / #5 shot for heavier upland loads.  
+- **Dove & woodcock (non‑toxic only):** steel or other non‑toxic #6–7½ shot.  
+- **Five Stand / clays:** #8–9 shot.
 
-**Ammo – dove & woodcock (non‑toxic only)**
-
-- Steel or other non‑toxic shot, #6–7½ shot
-
-**Ammo – Five Stand**
-
-- #8–9 shot
-
-**Species**
+**Species focus**
 
 - Primary: grouse, dove, pigeon, woodcock  
 - Secondary: hare, other small game
@@ -56,35 +48,26 @@ Grouse, hare, and other small game in the bush; the occasional dove and woodcock
 **Purpose**  
 Primary duck, goose, and turkey gun; short‑range predator gun.
 
-**Typical ranges**
+**Effective ranges**
 
 - Ducks: 20–35 yd  
 - Geese: 30–40 yd  
 - Turkey: 20–60 yd (pattern dependent)  
 - Coyotes (predator loads): 0–40 yd
 
-**Platform**
+**Platform (shotgun)**
 
 - Churchill (Akkar) 206, 12 ga, 30" barrel, 3½" chamber  
-- Chokes: IC, M, IM, F, etc. as needed  
-- Break action, extractors that act as ejectors when a shot is fired
+- Action: break‑action with extractors that act as ejectors when a shot is fired  
+- Chokes: IC, M, IM, F, etc. as needed
 
-**Ammo & use – waterfowl (non‑toxic)**
+**Ammo & use**
 
-- Ducks: #2–4 shot  
-- Geese: BB / BBB shot
+- **Waterfowl (non‑toxic):** ducks with #2–4 shot; geese with BB / BBB shot.  
+- **Turkey:** 3"–3½" #4–6 shot or TSS with a tight turkey choke, patterned and confirmed at 20 / 40 / 60 yd.  
+- **Predators (coyotes):** Hornady Heavy Magnum Coyote 3" 1‑1/2 oz #BB shot; choke chosen by pattern, used inside ~40 yd.
 
-**Ammo & use – turkey**
-
-- 3"–3½" #4–6 shot or TSS  
-- Tight turkey choke, patterned and confirmed at 20 / 40 / 60 yd
-
-**Ammo & use – predators (coyotes)**
-
-- Hornady Heavy Magnum Coyote 3" 1‑1/2 oz #BB shot  
-- Choke chosen by pattern, used inside ~40 yd
-
-**Species**
+**Species focus**
 
 - Primary: ducks, geese, wild turkey  
 - Secondary: coyotes (short‑range)
@@ -96,40 +79,26 @@ Primary duck, goose, and turkey gun; short‑range predator gun.
 **Purpose**  
 Camp / truck / brush gun for very close‑range big game and predators, including less‑lethal options and general personal protection.
 
-**Typical ranges**
+**Effective ranges**
 
 - Deer / bear with slugs: 0–30 yd only  
 - Predators (buckshot / coyote loads / non‑lethals): 0–30 yd
 
-**Platform**
+**Platform (shotgun)**
 
 - Benelli Nova Tactical, 12 ga, 18.5" barrel, 3½" chamber  
-- Fixed Cylinder choke  
-- Pump action  
+- Action: pump  
+- Choke: fixed Cylinder  
 - Capacity: 2+1 (tube is plugged)  
 - Optic: Trijicon RMR Type 2 on GG&G Nova/SuperNova RMR mount
 
-**Ammo & use – big‑game slug (primary)**
+**Ammo & use**
 
-- Federal TruBall Deep Penetrator rifled slug – 438 gr, 2¾", 1350 fps  
-- Zero at ~25–30 yd  
-- Used for deer or bear hunts inside 30 yd
+- **Big‑game slugs (primary):** Federal TruBall Deep Penetrator rifled slug – 438 gr, 2¾", 1350 fps; zero at ~25–30 yd; used for deer or bear hunts inside 30 yd.  
+- **Buckshot & coyote loads (lethal):** 000 buck, 00 buck, #4 buck, and BB magnum coyote loads for predators / defence inside 30 yd.  
+- **Non‑lethal / less‑lethal:** rubber buckshot (“buck shorts”) and rubber / inert slugs for predator defence / deterrence at very close range where legal; always treated as serious force.
 
-**Ammo & use – buckshot & coyote loads (lethal)**
-
-- 000 buck  
-- 00 buck  
-- #4 buck  
-- BB magnum coyote loads  
-- Used for predators / defence inside 30 yd
-
-**Ammo & use – non‑lethal / less‑lethal**
-
-- Rubber buckshot (“buck shorts”)  
-- Rubber / inert slugs  
-- For predator defence / deterrence at very close range where legal; treated as serious force.
-
-**Species**
+**Species focus**
 
 - Primary: close‑range deer and black bear with TruBall Deep Penetrator slugs  
 - Secondary: close‑range coyotes/wolves with buckshot or BB mag coyote loads; bear / predator deterrence with non‑lethal buckshot / slugs
@@ -148,23 +117,23 @@ Primary all‑weather big‑game rifle; 0–200+ yd capable general‑purpose hu
 - Coyotes (when used): 0–200+ yd  
 - Moose / elk: practical hunting distances inside ~200+ yd
 
-**Platform**
+**Platform (rifle)**
 
 - Tikka T3x Lite Stainless, .30‑06, 22" barrel, 1:10 twist, bolt action  
-- KRG‑Ops Echo Rifle Chassis for Tikka T3/T3x LA Green, aluminum bedded  
+- Chassis: KRG‑Ops Echo Rifle Chassis for Tikka T3/T3x LA Green, aluminum bedded  
 - Optic: Swarovski Z3 3–10×42mm (4A, F2, fixed parallax ~100 yd, non‑illuminated), 1" tube  
-- Mount: Sako Optilock base with low 1" rings
+- Mount & rings: Sako Optilock base with low 1" rings
 
-**Zero & use**
+**Zero, holds & dials**
 
 - Zero: 50 yd  
-- Simple, no‑dial hunting rifle for 0–200+ yd with appropriate holds
+- Use: simple, no‑dial hunting rifle for 0–200+ yd with appropriate holds
 
 **Ammo**
 
 - Nosler Trophy Grade 180 gr AccuBond
 
-**Species**
+**Species focus**
 
 - Primary: whitetail deer, black bear  
 - Secondary: moose, elk, coyotes
@@ -184,24 +153,24 @@ Long‑range precision rifle for:
 - Varmints / coyotes: 0–400 yd  
 - Deer (occasional, when conditions line up): 0–400 yd
 
-**Platform**
+**Platform (rifle)**
 
 - Sig CROSS, 6.5 Creedmoor, 18" barrel, 1:8 twist, bolt action  
-- MDT Comp muzzle brake  
+- Muzzle device: MDT Comp muzzle brake  
 - Optic: Swarovski Z5i 3.5–18×44mm (PLEX BT, F2, parallax adjustable, illuminated reticle), 1" tube  
-- Rings: Leupold Mark 4 1" medium rings  
-- BT set for 200 / 300 / 400 yd
+- Mount & rings: Leupold Mark 4 1" medium rings
 
-**Zero & use**
+**Zero, holds & dials**
 
 - Zero: 100 yd  
-- Practical 0–400 yd rifle on game (varmints / predators routinely, deer occasionally), using BT and parallax adjustment for precision
+- BT: set for 200 / 300 / 400 yd on the ballistic turret  
+- Use: practical 0–400 yd rifle on game (varmints / predators routinely, deer occasionally), using BT and parallax adjustment for precision
 
 **Ammo**
 
 - Nosler Trophy Grade 142 gr AccuBond Long Range
 
-**Species**
+**Species focus**
 
 - Primary: varmints and predators out to ~400 yd  
 - Secondary: occasional whitetail deer out to ~400 yd
@@ -213,22 +182,26 @@ Long‑range precision rifle for:
 **Purpose**  
 Dispatch‑only tool.
 
-**Typical ranges**
+**Effective ranges**
 
 - Contact to ~10 yd (practically kept inside 10–15 yd)
 
-**Platform**
+**Platform (rifle)**
 
 - Chiappa Little Badger TDX, .22 LR, 16.5" barrel, 1:16 twist  
-- Ghost ring sights  
-- Break action
+- Sights: ghost ring sights  
+- Action: break‑action
+
+**Zero & use**
+
+- Zero: ~25 yd  
+- Use: dispatch‑only, practically kept inside ~10–15 yd
 
 **Ammo**
 
-- CCI Velocitor – 40 gr Copper HP  
-- Zero at ~25 yd
+- CCI Velocitor – 40 gr Copper HP
 
-**Species**
+**Species focus**
 
 - Primary: dispatch of small game  
 - Secondary: —
@@ -245,17 +218,17 @@ Tight‑cover whitetail crossbow.
 - Intended: 0–20+ yd  
 - Realistic comfort: ~15–25 yd
 
-**Platform**
+**Platform (crossbow)**
 
 - Excalibur Micro 315  
-- Excalibur Twilight DLX Multiplex scope, illuminated, 30 mm  
-- 16.5" QUILL illuminated bolts
+- Scope: Excalibur Twilight DLX Multiplex, illuminated, 30 mm
 
-**Broadheads**
+**Bolts & broadheads**
 
-- 150 gr Slick Trick 4‑blade crossbow heads
+- Bolts: 16.5" QUILL illuminated bolts  
+- Broadheads: 150 gr Slick Trick 4‑blade crossbow heads
 
-**Species**
+**Species focus**
 
 - Primary: whitetail deer in tight cover  
 - Secondary: —
@@ -267,22 +240,22 @@ Tight‑cover whitetail crossbow.
 **Purpose**  
 Main crossbow for whitetail deer and black bear.
 
-**Effective ranges**
+**Effective ranges (deer / bear)**
 
 - Deer: 0–30+ yd, realistically 20–35 yd  
 - Bear: 0–60 yd under good conditions (broadside, calm, solid rest)
 
-**Platform**
+**Platform (crossbow)**
 
 - Excalibur RevX  
-- Excalibur Overwatch scope, illuminated, 30 mm  
-- 16.5" QUILL illuminated bolts
+- Scope: Excalibur Overwatch, illuminated, 30 mm
 
-**Broadheads**
+**Bolts & broadheads**
 
-- BEAST 2.3" 125 gr aluminum broadheads
+- Bolts: 16.5" QUILL illuminated bolts  
+- Broadheads: BEAST 2.3" 125 gr aluminum broadheads
 
-**Species**
+**Species focus**
 
 - Primary: whitetail deer, black bear  
 - Secondary: —
@@ -299,24 +272,17 @@ Main crossbow for whitetail deer and black bear.
 - Intended: 0–20+ yd  
 - Hard cap: 25 yd
 
-**Platform**
+**Platform (traditional bow)**
 
 - Bear Grizzly, 58" recurve  
-- ~40 lb at 26" draw (~45 lb @ 28")
+- Draw weight: ~40 lb at 26" draw (~45 lb @ 28")
 
-**Arrows**
+**Arrows & broadheads**
 
-- 600 spine carbon shafts (for ~40 lb @ 26")  
-- 29–30" length  
-- 150 gr points  
-- 3×4" feathers  
-- ~400–475 gr total arrow weight
+- Arrows: 600 spine carbon shafts (for ~40 lb @ 26"), 29–30" length, 3×4" feathers, ~400–475 gr total arrow weight  
+- Points / broadheads: 150 gr points; Excalibur Boltcutter 150 gr (fixed 3‑blade), kept very sharp
 
-**Broadheads**
-
-- Excalibur Boltcutter 150 gr (fixed 3‑blade), kept very sharp
-
-**Species**
+**Species focus**
 
 - Primary: whitetail deer (traditional hunting)  
 - Secondary: 3D / target practice
