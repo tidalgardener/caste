@@ -153,7 +153,7 @@ Primary all‑weather big‑game rifle; 0–200+ yd capable general‑purpose hu
 - Tikka T3x Lite Stainless, .30‑06, 22" barrel, 1:10 twist, bolt action  
 - KRG‑Ops Echo Rifle Chassis for Tikka T3/T3x LA Green, aluminum bedded  
 - Optic: Swarovski Z3 3–10×42mm (4A, F2, fixed parallax ~100 yd, non‑illuminated), 1" tube  
-- Mount: Sako Optilock base with low rings
+- Mount: Sako Optilock base with low 1" rings
 
 **Zero & use**
 
