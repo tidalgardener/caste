@@ -176,13 +176,13 @@ Primary all‑weather big‑game rifle; 0–200+ yd capable general‑purpose hu
 **Purpose**  
 Long‑range precision rifle for:
 
-- Varmints and predators out to 500 yd  
-- Occasional deer out to 500 yd
+- Varmints and predators out to ~400 yd  
+- Occasional deer out to ~400 yd
 
 **Effective ranges**
 
-- Varmints / coyotes: 0–500 yd  
-- Deer (occasional, when conditions line up): 0–500 yd
+- Varmints / coyotes: 0–400 yd  
+- Deer (occasional, when conditions line up): 0–400 yd
 
 **Platform**
 
@@ -190,12 +190,12 @@ Long‑range precision rifle for:
 - MDT Comp muzzle brake  
 - Optic: Swarovski Z5i 3.5–18×44mm (PLEX BT, F2, parallax adjustable, illuminated reticle), 1" tube  
 - Rings: Leupold Mark 4 1" medium rings  
-- BT set for 300 / 400 / 500 yd
+- BT set for 200 / 300 / 400 yd
 
 **Zero & use**
 
 - Zero: 100 yd  
-- 0–500 yd on game (varmints / predators routinely, deer occasionally), using BT and parallax adjustment for precision
+- Practical 0–400 yd rifle on game (varmints / predators routinely, deer occasionally), using BT and parallax adjustment for precision
 
 **Ammo**
 
@@ -203,8 +203,8 @@ Long‑range precision rifle for:
 
 **Species**
 
-- Primary: varmints and predators out to 500 yd  
-- Secondary: occasional whitetail deer out to 500 yd
+- Primary: varmints and predators out to ~400 yd  
+- Secondary: occasional whitetail deer out to ~400 yd
 
 ---
 
@@ -329,7 +329,7 @@ Main crossbow for whitetail deer and black bear.
 - **12 ga Churchill:** waterfowl & turkey; short‑range coyotes with Heavy Magnum Coyote.  
 - **Benelli Nova + RMR:** 0–30 yd slug/shotgun problem‑solver; occasional deer/bear slug gun ≤30 yd; lethal and less‑lethal predator defence.  
 - **Tikka T3x .30‑06 (bolt):** 0–200+ yd all‑weather big‑game and coyotes.  
-- **SIG CROSS 6.5 CM (bolt):** long‑range varmints/predators and occasional deer to 500 yd.  
+- **SIG CROSS 6.5 CM (bolt):** long‑range varmints/predators and occasional deer to ~400 yd.  
 - **.22 LR Little Badger:** dispatch‑only.  
 - **Micro 315:** tight‑cover deer crossbow.  
 - **RevX (BEAST):** main deer & bear crossbow.  
